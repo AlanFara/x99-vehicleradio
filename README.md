@@ -4,7 +4,7 @@ There is no support for this script. Items that need to be added are available i
 
 This script was last updated in 2024. There may be security issues or it may not work. You are solely responsible.
 
-
+There will be no updates from my side, but I will check the PRs.
 
 | Export Function                                                             | Description                                          |
 | --------------------------------------------------------------------------- | ---------------------------------------------------- |
@@ -53,5 +53,3 @@ ESX.RegisterUsableItem('vehicleradio', function(source)
     TriggerClientEvent("x99-vehicleradio:client:openRadio", source)
 end)
 ```
-
-If you need help or something hit us on `Discord` https://discord.gg/6V9QEucvwx
