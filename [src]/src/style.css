@@ -1,0 +1,34 @@
+:root {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+html {
+  overflow: hidden !important;
+}
+
+#app {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+button {
+  background: none;
+  border: none;
+  color: inherit;
+  padding: 0;
+  margin: 0;
+  outline: none;
+  cursor: pointer;
+  font: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.v-application {
+  background: transparent !important;
+}

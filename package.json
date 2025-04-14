@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "progress-estimator": "^0.3.1"
+  }
+}
